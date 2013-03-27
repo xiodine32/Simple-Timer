@@ -4,8 +4,10 @@ DOWNLOADS<br/>
 </h1>
 
 <b>V 1.0 </b>: <a href='https://github.com/xiofurry/Simple-Timer/blob/v1.0/TriburileTimer/bin/Release/TriburileTimer.exe?raw=true'> Download</a> <hr/>
-<h1>README</h1>
-<u>======</u>
+<h1>
+README<br/>
+======
+</h1>
 
 1. Double click on notification to show the form
 
