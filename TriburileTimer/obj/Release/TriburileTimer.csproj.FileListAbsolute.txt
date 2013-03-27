@@ -1,0 +1,7 @@
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\bin\Release\TriburileTimer.exe
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\bin\Release\TriburileTimer.pdb
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\obj\Release\TriburileTimer.Form1.resources
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\obj\Release\TriburileTimer.Properties.Resources.resources
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\obj\Release\TriburileTimer.csproj.GenerateResource.Cache
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\obj\Release\TriburileTimer.exe
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\obj\Release\TriburileTimer.pdb

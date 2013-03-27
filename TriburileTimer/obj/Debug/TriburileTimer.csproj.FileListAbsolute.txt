@@ -1,0 +1,8 @@
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\bin\Debug\TriburileTimer.exe
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\bin\Debug\TriburileTimer.pdb
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\obj\Debug\TriburileTimer.csprojResolveAssemblyReference.cache
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\obj\Debug\TriburileTimer.Form1.resources
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\obj\Debug\TriburileTimer.Properties.Resources.resources
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\obj\Debug\TriburileTimer.csproj.GenerateResource.Cache
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\obj\Debug\TriburileTimer.exe
+C:\Users\Neagu\Desktop\Proiecte\TriburileTimer\TriburileTimer\obj\Debug\TriburileTimer.pdb
