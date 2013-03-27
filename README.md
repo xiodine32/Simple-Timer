@@ -14,3 +14,10 @@
 
 6. Rightclick on the notification to display the menu (from where you can exit)
 
+<h1>
+DOWNLOADS
+=========
+</h1>
+
+<b>V 1.0 </b>: <a href='https://github.com/xiofurry/Simple-Timer/blob/v1.0/TriburileTimer/bin/Release/TriburileTimer.exe?raw=true'> Download</a>
+
